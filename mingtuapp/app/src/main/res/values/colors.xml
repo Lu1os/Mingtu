@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础色 -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 主题色 -->
+    <color name="blue_400">#FF60A5FA</color>
+    <color name="blue_500">#FF3B82F6</color>
+    <color name="red_500">#FFEF4444</color>
+
+    <!-- 灰阶 -->
+    <color name="gray_400">#FF9CA3AF</color>
+    <color name="gray_500">#FF6B7280</color>
+    <color name="gray_600">#FF4B5563</color>
+    <color name="gray_700">#FF374151</color>
+    <color name="gray_800">#FF1F2937</color>
+    <color name="gray_900">#FF111827</color>
+
+    <!-- 暗色面板 -->
+    <color name="panel_bg">#FF1A1A1A</color>
+    <color name="panel_border">#33FFFFFF</color>
+    <color name="panel_stroke">#1A1A1A</color>
+
+    <!-- 语音选项 -->
+    <color name="voice_option_checked_bg">#FF1E3A5F</color>
+    <color name="voice_option_default_bg">#FF0D0D0D</color>
+    <color name="voice_option_default_stroke">#FF1A1A1A</color>
+
+    <!-- 导航栏 -->
+    <color name="nav_bg">#80000000</color>
+</resources>

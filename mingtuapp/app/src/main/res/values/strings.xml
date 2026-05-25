@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MingtuApp</string>
+
+    <!-- 格式化 -->
+    <string name="volume_percent">%1$d%%</string>
+
+    <!-- 通用 -->
+    <string name="back">返回</string>
+    <string name="enter">进入</string>
+
+    <!-- 设置页 - 标题 -->
+    <string name="settings_title">系统设置</string>
+
+    <!-- 设置页 - 分组标题 -->
+    <string name="group_voice_feedback">语音反馈</string>
+    <string name="group_voice_wakeup">语音唤醒</string>
+    <string name="group_other">其他</string>
+
+    <!-- 设置页 - 播报音色 -->
+    <string name="setting_voice_title">播报音色</string>
+    <string name="setting_voice_desc">选择语音播报的发音人</string>
+    <string name="voice_xiaoyan">小燕 (知性女声)</string>
+    <string name="voice_xiaofeng">小峰 (商务男声)</string>
+    <string name="voice_xiaofeng_unavailable">小峰发音人模型暂未安装，当前不可用</string>
+    <string name="btn_preview_voice">试听当前音色</string>
+
+    <!-- 设置页 - 语速 -->
+    <string name="setting_speed_title">语速调节</string>
+
+    <!-- 设置页 - 音量 -->
+    <string name="setting_volume_title">音量调节</string>
+
+    <!-- 设置页 - 唤醒灵敏度 -->
+    <string name="setting_threshold_title">唤醒灵敏度</string>
+    <string name="setting_threshold_desc">灵敏度越高越容易误触发，越低则需要更清晰地说出唤醒词</string>
+
+    <!-- 设置页 - 触感反馈 -->
+    <string name="setting_haptic_title">触感反馈</string>
+    <string name="setting_haptic_desc">操作时震动反馈</string>
+
+    <!-- 设置页 - 帮助中心 -->
+    <string name="setting_help_title">帮助中心</string>
+    <string name="setting_help_desc">使用指南与常见问题</string>
+
+    <!-- 设置页 - 控制键手柄 -->
+    <string name="setting_key_handler_title">控制键手柄</string>
+    <string name="setting_key_handler_desc">开启后可用音量键替代触摸屏操作</string>
+
+    <!-- 设置页 - 语速标签 -->
+    <string name="speed_very_slow">很慢</string>
+    <string name="speed_slow">较慢</string>
+    <string name="speed_normal">正常</string>
+    <string name="speed_fast">较快</string>
+    <string name="speed_very_fast">很快</string>
+
+    <!-- 设置页 - 灵敏度标签 -->
+    <string name="threshold_very_high">极高</string>
+    <string name="threshold_high">较高</string>
+    <string name="threshold_normal">正常</string>
+    <string name="threshold_low">较低</string>
+    <string name="threshold_very_low">极低</string>
+
+    <!-- 版本信息 -->
+    <string name="version_info">明途 Mingtu v0.1.0</string>
+
+    <!-- Toast -->
+    <string name="help_center_in_dev">帮助中心开发中</string>
+    <string name="voice_not_available">该发音人模型暂未安装</string>
+
+    <!-- 主界面 -->
+    <string name="nav_home">首页</string>
+    <string name="nav_sos">SOS</string>
+    <string name="nav_settings">设置</string>
+    <string name="sos_in_dev">紧急求助功能开发中</string>
+</resources>
